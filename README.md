@@ -1,4 +1,4 @@
-# projeto-analise-vendas
+
 # Análise de Vendas da Loja Online - 2023
 
 Este projeto consiste na análise dos dados de vendas da loja online durante o ano de 2023. O objetivo é extrair, explorar e visualizar os dados utilizando SQL e Python para gerar insights que auxiliem na tomada de decisões estratégicas.
